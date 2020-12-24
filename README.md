@@ -1,12 +1,12 @@
-# TroxelEndo.com 
+# RabbitEarsDental.com 
 
-Alex's business site: [https://troxelendo.com](https://troxelendo.com)
+Joy's business site: [https://rabbitearsdental.com](https://rabbitearsdental.com)
 
 This is just a static HTML/CSS site, files live in the `docs/` folder.
 
 The site is hosted with Github Pages.
 
-## Updates for Alex
+## Updates for Joy
 
 Go to the [docs/_data](./docs/_data) folder and edit data there.
 After you save it'll take a minute for the site to build.
@@ -39,4 +39,4 @@ We use [HTMLProofer](https://github.com/gjtorikian/html-proofer) for tests.
 
 ### CI
 
-A build / test cycle runs every time code changes on [Github Actions](https://github.com/ctro/troxelendo/actions)
+A build / test cycle runs every time code changes on [Github Actions](https://github.com/ctro/rabbitearsdental/actions)

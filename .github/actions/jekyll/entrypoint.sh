@@ -7,8 +7,8 @@ set -e
 #  this is Github convention
 
 cd ${GITHUB_WORKSPACE}
-echo 🦷 pwd: $(pwd)
-echo ‍‍🦷 ls workspace: $(ls)
+echo 🐰 pwd: $(pwd)
+echo ‍‍🐰 ls workspace: $(ls)
 
 # Install the bundle
 bundle install
@@ -19,4 +19,4 @@ bundle exec jekyll build
 # Test the generated site
 htmlproofer docs/_site
 
-echo 🦷 ls site: $(ls docs/_site)
+echo 🐰 ls site: $(ls docs/_site)
